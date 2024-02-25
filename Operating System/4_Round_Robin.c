@@ -8,6 +8,7 @@ p3          5       1       6       1       0       0
 p4         12       4      18       6       2       0
 p5         16       5      24       8       3       2
 
+TIME QUANTUM : 2ms
 */
 
 #include<stdio.h>
