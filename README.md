@@ -1,4 +1,4 @@
-###Operating System Lab: Scheduling and System Calls
+#Operating System Lab: Scheduling and System Calls
 
 Welcome to the Operating System Lab repository! This collection features implementations of various system calls and scheduling algorithms, as well as memory management and deadlock avoidance techniques. Each program is designed to demonstrate core concepts in operating systems with comprehensive and robust implementations.
 
